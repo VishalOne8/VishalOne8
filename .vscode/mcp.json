@@ -1,0 +1,12 @@
+{
+    "servers": {
+        "ui5-mcp": {
+            "type": "stdio",
+            "command": "npx",
+            "args": [
+                "-y",
+                "@ui5/mcp-server"
+            ]
+        }
+    }
+}
